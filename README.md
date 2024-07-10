@@ -69,6 +69,9 @@ Some of mods featured here can be configured on Mod Menu.
 * [YOSBR](https://modrinth.com/mod/yosbr)
 * [Zoomify](https://modrinth.com/mod/zoomify)
 
+## Special Thanks
+* SkywardMC
+
 ## Disclaimer!
 By using this modpack, you agree to the following:
 * Our modpacks are designed to comply with most of the community server rules in mind. Please add/remove, enable mods and features at your own risk. We are NOT responsible for any bans or suspension from community servers from modifying the list of mods.
