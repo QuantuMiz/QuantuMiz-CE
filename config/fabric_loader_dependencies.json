@@ -1,0 +1,20 @@
+{
+    "version":1,
+    "overrides":
+    {
+        "debugify":
+        {
+            "depends":
+            {
+                "minecraft":">=1.21 <=1.21.1"
+            }
+        },
+        "blockhighlight":
+        {
+            "depends":
+            {
+                "minecraft":">=1.21 <=1.21.1"
+            }
+        }
+    }
+}
