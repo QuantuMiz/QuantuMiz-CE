@@ -31,46 +31,12 @@ See [here](https://github.com/QuantuMiz/QuantuMiz-CE/releases).
 * 100% community-made, free and open-source! All mod's source code are available on their respective GitHub page.
 
 ## List of Mods
-Some of mods featured here can be configured on Mod Menu.
-
-* [BadOptimizations](https://modrinth.com/mod/badoptimizations)
-* [Cloth Config API](https://modrinth.com/mod/cloth-config)
-* [Continuity](https://modrinth.com/mod/continuity)
-* [CraftPresence](https://modrinth.com/mod/craftpresence)
-* [Custom FOV](https://modrinth.com/mod/custom-fov-illusive)
-* [Dark Loading Screen](https://modrinth.com/mod/dark-loading-screen)
-* [Debugify](https://modrinth.com/mod/debugify)
-* [Dynamic Crosshair](https://modrinth.com/mod/dynamiccrosshair)
-* [Dynamic FPS](https://modrinth.com/mod/dynamic-fps)
-* [Fabric API](https://modrinth.com/mod/fabric-api)
-* [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin)
-* [FerriteCore](https://modrinth.com/mod/ferrite-core)
-* [Gamma Utils (Fullbright)](https://modrinth.com/mod/gamma-utils)
-* [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast)
-* [Indium](https://modrinth.com/mod/indium)
-* [Iris](https://modrinth.com/mod/iris)
-* [Lithium](https://modrinth.com/mod/lithium)
-* [Main Menu Credits](https://modrinth.com/mod/main-menu-credits)
-* [MixinTrace](https://modrinth.com/mod/mixintrace)
-* [Mod Menu](https://modrinth.com/mod/modmenu)
-* [Model Gap Fix](https://modrinth.com/mod/modelfix)
-* [ModernFix](https://modrinth.com/mod/modernfix)
-* [More Chat History](https://modrinth.com/mod/morechathistory)
-* [More Culling](https://modrinth.com/mod/moreculling)
-* [No Chat Reports](https://modrinth.com/mod/no-chat-reports)
-* [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options)
-* [Scoreboard Helper](https://modrinth.com/mod/scoreboard-helper)
-* [Simple HUD Helper](https://modrinth.com/mod/simple-hud-enhanced)
-* [Sodium](https://modrinth.com/mod/sodium)
-* [ThreadTweak](https://modrinth.com/mod/threadtweak)
-* [TipTapShow](https://modrinth.com/mod/tiptapshow)
-* [WAIG: Where Am I Going](https://modrinth.com/mod/waig)
-* [YetAnotherConfigLib](https://modrinth.com/mod/yacl)
-* [YOSBR](https://modrinth.com/mod/yosbr)
-* [Zoomify](https://modrinth.com/mod/zoomify)
+Some of mods featured here can be configured on Mod Menu. Refer to [List of mods](https://github.com/QuantuMiz/QuantuMiz/wiki/List-of-Mods) page for full list of mods.
 
 ## Special Thanks
-* SkywardMC
+* Fabulously Optimized
+* Simply Optimized
+* SkywardMC Team (Creator of Adrenaline and Additive modpack)
 
 ## Disclaimer!
 By using this modpack, you agree to the following:
