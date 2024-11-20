@@ -3,8 +3,8 @@
     {
         "bottom_right": [
             {
-                "text":"QuantuMiz CE for 1.21.3 \"Nanon\"",
-                "color":"#90ACFF",
+                "text":"QuantuMiz CE for 1.21.1 \"Medea Plus!\"",
+                "color":"#FC078E",
                 "clickEvent":
                 {
                     "action":"open_url",
