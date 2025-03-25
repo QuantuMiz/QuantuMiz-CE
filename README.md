@@ -27,7 +27,6 @@ See [here](https://github.com/QuantuMiz/QuantuMiz-CE/releases).
 * Optimization powered by [QuantuMiz](https://modrinth.com/modpack/quantumiz), which includes several optimization mods with the power of open-source.
 * Partial compatibility of OptiFine features such as Connected Textures and Shaders!
 * Unlike other modpacks, this modpack is designed with Fair-play in mind for most of community servers, all mods present are cherry-picked carefully to comply with most of server rules, including popular server such as [Hypixel](https://hypixel.net).
-* Our project focuses to be more Vanilla-friendly, only essential features are included, no bloats are accepted unlike other modpacks.
 * 100% community-made, free and open-source! All mod's source code are available on their respective GitHub page.
 
 ## List of Mods
