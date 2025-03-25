@@ -4,5 +4,6 @@
     "easter_eggs":false,
     "mods_button_style": "icon",
     "update_checker":false,
-    "button_update_badge":false
+    "button_update_badge":false,
+    "disable_update_checker":[]
 }
