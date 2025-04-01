@@ -1,0 +1,90 @@
+toggleEquipmentStatus = true
+
+[uiConfig]
+toggleSimpleHUDEnhanced = true
+textColor = 16711769
+
+[statusElements]
+togglePing = true
+
+[statusElements.coordinates]
+toggleCoordinates = true
+toggleDirection = false
+toggleOffset = false
+
+[statusElements.fps]
+toggleFPS = true
+toggleColourFPS = false
+
+[statusElements.playerSpeed]
+togglePlayerSpeed = false
+
+[statusElements.Biome]
+toggleBiome = false
+
+[statusElements.gameTime]
+toggleGameTime = false
+toggleGameTime24Hour = false
+toggleGameDayCounter = false
+
+[statusElements.systemTime]
+toggleSystemTime = false
+
+[statusElements.counters]
+toggleEntityCount = false
+toggleParticleCount = false
+
+[statusElements.counters.chunkCount]
+toggleChunkCount = false
+toggleTotal = false
+toggleLoaded = false
+
+[effectsStatus]
+backgroundColor = -2147483648
+beneficialForegroundColor = -2130706433
+harmfulForegroundColor = -2130706433
+neutralForegroundColor = -2130706433
+
+[movementStatus]
+toggleMovementStatus = false
+
+[movementStatus.movementTypes]
+toggleSprintStatus = true
+toggleSneakStatus = true
+toggleFlyingStatus = true
+toggleSwimmingStatus = true
+
+[paperDoll]
+togglePaperDoll = false
+
+[equipmentStatus]
+showCount = true
+showNonTools = true
+textScale = 100
+equipmentOrientation = "Vertical"
+equipmentAlignment = "Right"
+equipmentStatusLocationX = 100
+equipmentStatusLocationY = 100
+
+[equipmentStatus.Durability]
+showDurability = true
+showTotalCount = true
+showDurabilityAsPercentage = false
+showColour = false
+showDurabilityAsBar = true
+
+[equipmentStatus.Durability.slots]
+Head = true
+Body = true
+Legs = true
+Boots = true
+OffHand = true
+MainHand = true
+
+[equipmentStatus.slots]
+Head = true
+Body = true
+Legs = true
+Boots = true
+OffHand = true
+MainHand = true
