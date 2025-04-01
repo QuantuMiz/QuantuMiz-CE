@@ -3,8 +3,8 @@
     {
         "bottom_right": [
             {
-                "text":"QuantuMiz CE for 1.21.1 \"Medea Plus!\"",
-                "color":"#FC078E",
+                "text":"QuantuMiz CE for 1.21.5 \"Orius\"",
+                "color":"#fc6b75",
                 "clickEvent":
                 {
                     "action":"open_url",
